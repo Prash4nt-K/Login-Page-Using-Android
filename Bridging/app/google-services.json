@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "836244159054",
+    "firebase_url": "https://bridging-2fa37.firebaseio.com",
+    "project_id": "bridging-2fa37",
+    "storage_bucket": "bridging-2fa37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836244159054:android:8fc704be402eda90ad611f",
+        "android_client_info": {
+          "package_name": "com.codewithshanu.bridging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836244159054-2bcnnc9kjpl1khcvfah5k7vkvfge1ot3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codewithshanu.bridging",
+            "certificate_hash": "be4773688d3bcab061b29043b40cf0b99ed376ea"
+          }
+        },
+        {
+          "client_id": "836244159054-nn4dt2ego59kc3fjjjf83jcdb1gl558e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIbjJoiuOp2634e7CCNq1QzTfkNwK7YtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836244159054-nn4dt2ego59kc3fjjjf83jcdb1gl558e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
